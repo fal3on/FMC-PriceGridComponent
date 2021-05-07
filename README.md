@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](#)
-- Live Site URL: [Live site URL](#)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-single-price-grid-component-using-css-flexbox-XQD9cv1gc)
+- Live Site URL: [Live site URL](https://fmc-price-grid-component.vercel.app/)
 
 ### Built with
 
